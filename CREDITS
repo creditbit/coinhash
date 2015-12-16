@@ -1,0 +1,10 @@
+Compilation created and maintained by Tyler Willis https://github.com/kefkius/
+
+Hash Algorithm Credits:
+
+x11_hash https://github.com/vertoe/x11_hash
+groestlcoin_hash https://github.com/GroestlCoin/groestlcoin-hash-python
+ltc_scrypt https://pypi.python.org/pypi/ltc_scrypt/1.0
+neoscrypt https://github.com/ghostlander/NeoScrypt
+qubit_hash https://github.com/obigal/qubit-hash-python
+skeinhash https://github.com/birdonwheels5/p2pool-dgbSkein

@@ -1,0 +1,7 @@
+include setup.cfg
+include setup.py
+include README.md
+include CREDITS
+include LICENSE*
+recursive-include coinhash *.py *.c *.h
+prune build
